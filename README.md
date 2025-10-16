@@ -60,8 +60,7 @@ Sair Escolha uma opção (1-3): 1 Digite o texto: Olá mundo! Digite a chave: se
 
 Você pode testar o código diretamente aqui:
 
-🔗 [Abrir no DotNetFiddle](https://dotnetfiddle.net/1gUu8z)
-
+🔗 [Abrir no DotNetFiddle](https://dotnetfiddle.net/tgvqWd)
 ---
 
 ## 📄 Licença
